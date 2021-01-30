@@ -1,0 +1,21 @@
+   .custom_btn
+   {
+     background-color: #970000;
+     color: #FFFFFF;
+     padding: 10px 40px;
+     text-align: center;
+     border: none;
+   }
+   div.middle
+   {
+     text-align: center;
+   }
+   .navbar
+   {
+
+   }
+   .navbar-light .navbar-brand
+   {
+     font-size: 40px;
+   }
+   
