@@ -8,7 +8,7 @@ Department of Computer Science & Engineering,
 East West University, 
 Dhaka.
 
-The web application is a simple implementation of Sign up and Sign in feature using Php and Mysql.
+The web application is a simple implementation of Student Attendance Management feature with Limited University Management using Php and Mysql.
 To successfully run the web application one must follow these steps:
 
 1. Download and Install xampp.
