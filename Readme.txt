@@ -20,12 +20,12 @@ To successfully run the web application one must follow these steps:
 4. Click on "Admin" button of "Mysql". Your Browser will open and you will be redirected to phpmyadmin page.
 
 5. Create a new database with exactly the same name as the <red_academy.sql> file situated at 
-location C:\xampp\htdocs\2017-1-60-082
+location C:\xampp\htdocs\<project name>
 
 6. Click on "Import" tab. From the browse option click on choose file and select <red_academy.sql> file 
-from location C:\xampp\htdocs\2017-1-60-082. 
+from location C:\xampp\htdocs\<project name>. 
 Finally, Scroll down and click on go. 
 
-7. Now open a browser and in address bar, type: localhost/2017-1-60-082
+7. Now open a browser and in address bar, type: localhost/<project name>
 
 8. I hope you like it!
